@@ -1,9 +1,9 @@
 {
   "consumer": {
-    "name": "dii-theatermanagement-spa"
+    "name": "blue-theatermanagement-spa"
   },
   "provider": {
-    "name": "dii-theatermanagement-bff"
+    "name": "blue-theatermanagement-bff"
   },
   "interactions": [
     {

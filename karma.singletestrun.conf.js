@@ -43,8 +43,8 @@ module.exports = function (config) {
         // NOTE this section was added
         cors: true,
         port: 1234,
-        consumer: "dii-theatermanagement-spa",
-        provider: "dii-theatermanagement-bff",
+        consumer: "blue-theatermanagement-spa",
+        provider: "blue-theatermanagement-bff",
         logLevel: "DEBUG",
         log: path.resolve(process.cwd(), "logs", "pact.log"),
         dir: "pacts",
